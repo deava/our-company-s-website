@@ -1,4 +1,4 @@
-# B2B_MarketPlace platform
+# PSA company website
 Internet shop for b2b wholesale trade. Written in Python3 using Django framework and many other libraries.
 
 ## Features
